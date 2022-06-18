@@ -1,2 +1,2 @@
 # Python-Checkers-AI
-A checkers AI using the minimax algorithm.
+A checkers Game AI using the minimax algorithm.
